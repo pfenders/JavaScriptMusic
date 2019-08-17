@@ -2,7 +2,7 @@ window.addEventListener('load', () => {
     const sounds = document.querySelectorAll(".sound");
     const pads = document.querySelectorAll(".pads div");
     const visual = document.querySelector(".visual");
-    const colors = ['#eef113', '#791a0d', '#a032e0', '#f71fda', '#0eb358', '#0e7fb3'];
+    const colors = ['#be250a', '#e9ec19', '#1d0eee', '#15dd30', '#e4af03', '#7e17df', '#24d9e6', '#be250a'];
 
     //Make Sounds
     pads.forEach((pad, index) => {

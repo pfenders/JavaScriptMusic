@@ -42,26 +42,35 @@ header p{
 }
 
 .pad1 {
-    background-color: #eef113;
+    background-color:  #be250a;
+    
 }
 
 .pad2 {
-    background-color: #791a0d;
+    background-color: #e9ec19;
 }
 
 .pad3 {
-    background-color: #a032e0;
+    background-color: #1d0eee;
 }
 .pad4 {
-    background-color: #f71fda;
+    background-color: #15dd30;
 }
 
 .pad5 {
-    background-color: #0eb358;
+    background-color: #e4af03;
 }
 
 .pad6 {
-    background-color: #0e7fb3;
+    background-color: #7e17df;
+}
+
+.pad7 {
+    background-color: #24d9e6;
+}
+
+.pad8 {
+    background-color: #be250a;
 }
 
 .visual > div{
