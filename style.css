@@ -6,6 +6,9 @@
 
 body{
     font-family: 'El Messiri', sans-serif;
+    background-image: url("images/music.JPG");
+  background-repeat: no-repeat;
+background-size: cover;
 }
 
 .app{
